@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background: url("C:\Users\ibu\Desktop\reactDemo\cdiscapp\src\assest\bg1.jpeg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .App-logo {
@@ -35,4 +39,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.id{
+  margin-left: 1000px;
 }
